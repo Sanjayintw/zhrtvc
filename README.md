@@ -3,4 +3,4 @@ Chinese real time voice cloning (VC) and Chinese text to speech (TTS). 好用的
 
 ## 注意
 
-- 该项目的主要功能已经转移到(ttskit项目)[https://github.com/kuangdd/ttskit]。
+- 该项目的主要功能已经转移到[ttskit项目](https://github.com/kuangdd/ttskit)。
